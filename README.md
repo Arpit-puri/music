@@ -1,2 +1,2 @@
 # music
-It is an backend code for musi application like spotify 
+It is an backend code for music application like spotify.
